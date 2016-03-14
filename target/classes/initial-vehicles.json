@@ -1,0 +1,200 @@
+[
+    {
+        "Type": "Truck",
+        "VIN": 1234,
+        "Brand": "GMC",
+        "Color": "Red",
+        "EngineType": "Gas",
+        "Price": 24000,
+        "Year": 2016
+    },
+    {
+        "Type": "Car",
+        "VIN": 1235,
+        "Brand": "Toyota",
+        "Color": "Green",
+        "EngineType": "Hybrid",
+        "Price": 27000,
+        "Year": 2015
+    },
+    {
+        "Type": "Car",
+        "VIN": 1236,
+        "Brand": "Toyota",
+        "Color": "Red",
+        "EngineType": "Gas",
+        "Price": 19000,
+        "Year": 2015
+    },
+    {
+        "Type": "Car",
+        "VIN": 1237,
+        "Brand": "Toyota",
+        "Color": "Blue",
+        "EngineType": "Gas",
+        "Price": 21000,
+        "Year": 2014
+    },
+    {
+        "Type": "Motorcycle",
+        "VIN": 1238,
+        "Brand": "Honda",
+        "Color": "Blue",
+        "EngineType": "Hybrid",
+        "Price": 17000,
+        "Year": 2016
+    },
+    {
+        "Type": "Truck",
+        "VIN": 1239,
+        "Brand": "Honda",
+        "Color": "Blue",
+        "EngineType": "Hybrid",
+        "Price": 17000,
+        "Year": 2016
+    },
+    {
+        "Type": "Car",
+        "VIN": 1240,
+        "Brand": "Hyundai",
+        "Color": "Red",
+        "EngineType": "Gas",
+        "Price": 17000,
+        "Year": 2014
+    },
+    {
+        "Type": "Car",
+        "VIN": 1241,
+        "Brand": "Tesla",
+        "Color": "Blue",
+        "EngineType": "Electric",
+        "Price": 85000,
+        "Year": 2016
+    },
+    {
+        "Type": "Bicycle",
+        "VIN": 1242,
+        "Brand": "Cervelo",
+        "Color": "White",
+        "EngineType": "None",
+        "Price": 2000,
+        "Year": 2015
+    },
+    {
+        "Type": "Bicycle",
+        "VIN": 1243,
+        "Brand": "Huffy",
+        "Color": "White",
+        "EngineType": "None",
+        "Price": 150,
+        "Year": 2014
+    },
+    {
+        "Type": "Bicycle",
+        "VIN": 1244,
+        "Brand": "Trek",
+        "Color": "Orange",
+        "EngineType": "None",
+        "Price": 1200,
+        "Year": 2016
+    },
+    {
+        "Type": "Car",
+        "VIN": 1245,
+        "Brand": "Hyundai",
+        "Color": "White",
+        "EngineType": "Electric",
+        "Price": 25000,
+        "Year": 2009
+    },
+    {
+        "Type": "Car",
+        "VIN": 1246,
+        "Brand": "Ford Pinto",
+        "Color": "Light Blue",
+        "EngineType": "Gas",
+        "Price": 1000,
+        "Year": 1984
+    },
+    {
+        "Type": "Car",
+        "VIN": 1247,
+        "Brand": "Chevy Vega",
+        "Color": "Dark Blue",
+        "EngineType": "Gas",
+        "Price": 500,
+        "Year": 1981
+    },
+    {
+        "Type": "Car",
+        "VIN": 1248,
+        "Brand": "AMC Hornet",
+        "Color": "Tan",
+        "EngineType": "Gas",
+        "Price": 100,
+        "Year": 1977
+    },
+    {
+        "Type": "Car",
+        "VIN": 1249,
+        "Brand": "Yugo",
+        "Color": "Gray",
+        "EngineType": "Gas",
+        "Price": 10,
+        "Year": 1985
+    },
+    {
+        "Type": "Car",
+        "VIN": 1250,
+        "Brand": "Bugatti Veyron",
+        "Color": "Black/Red",
+        "EngineType": "Gas",
+        "Price": 2500000,
+        "Year": 2016
+    },
+    {
+        "Type": "Car",
+        "VIN": 1251,
+        "Brand": "Tesla model-S",
+        "Color": "Red",
+        "EngineType": "Gas",
+        "Price": 84000,
+        "Year": 2016
+    },
+    {
+        "Type": "Car",
+        "VIN": 1252,
+        "Brand": "Honda",
+        "Color": "Blue",
+        "EngineType": "Gas",
+        "Price": 5000,
+        "Year": 2002
+    },
+    {
+        "Type": "Car",
+        "VIN": 1253,
+        "Brand": "Honda",
+        "Color": "Silver",
+        "EngineType": "Gas",
+        "Price": 13000,
+        "Year": 2015
+    },
+    {
+        "Type": "Car",
+        "VIN": 1254,
+        "Brand": "Hyundai",
+        "Color": "Gold",
+        "EngineType": "Gas",
+        "Price": 13000,
+        "Year": 2014
+    },
+    {
+        "Type": "Car",
+        "VIN": 1255,
+        "Brand": "Subaru",
+        "Color": "Blue",
+        "EngineType": "Gas",
+        "Price": 13000,
+        "Year": 2014
+    }
+]
